@@ -1,0 +1,6 @@
+# Create requirements.txt
+pandas
+numpy
+scikit-learn
+streamlit
+matplotlib
